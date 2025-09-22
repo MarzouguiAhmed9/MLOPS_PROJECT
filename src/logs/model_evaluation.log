@@ -1,0 +1,18 @@
+2025-09-22 09:54:08,291 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-09-22 09:54:08,363 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-09-22 09:54:08,367 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2025-09-22 09:54:08,381 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-09-22 09:54:22,360 - model_evaluation - ERROR - Failed to complete the model evaluation process: could not rmdir 'C:/Users/21650/Desktop/MLOPS PROJECT/MLOPS_PROJECT/src/': Le processus ne peut pas accéder au fichier car ce fichier est utilisé par un autre processus.
+
+2025-09-22 09:55:50,139 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-09-22 09:55:50,212 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-09-22 09:55:50,217 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2025-09-22 09:55:50,229 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-09-22 09:55:58,943 - model_evaluation - ERROR - Failed to complete the model evaluation process: could not rmdir 'C:/Users/21650/Desktop/MLOPS PROJECT/MLOPS_PROJECT/src/': Le processus ne peut pas accéder au fichier car ce fichier est utilisé par un autre processus.
+
+2025-09-22 09:58:07,344 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-09-22 09:58:07,424 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-09-22 09:58:07,429 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2025-09-22 09:58:07,440 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-09-22 09:58:16,508 - model_evaluation - ERROR - Failed to complete the model evaluation process: could not rmdir 'C:/Users/21650/Desktop/MLOPS PROJECT/MLOPS_PROJECT/src/': Le processus ne peut pas accéder au fichier car ce fichier est utilisé par un autre processus.
+

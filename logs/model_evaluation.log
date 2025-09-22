@@ -1,0 +1,12 @@
+2025-09-22 10:00:06,194 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-09-22 10:00:06,195 - model_evaluation - ERROR - File not found: ./models/model.pkl
+2025-09-22 10:00:06,195 - model_evaluation - ERROR - Failed to complete the model evaluation process: [Errno 2] No such file or directory: './models/model.pkl'
+2025-09-22 10:03:35,782 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-09-22 10:03:35,853 - model_evaluation - DEBUG - Model loaded from C:\Users\21650\Desktop\MLOPS PROJECT\MLOPS_PROJECT\src\models\model.pkl
+2025-09-22 10:03:35,854 - model_evaluation - ERROR - Unexpected error occurred while loading the data: [Errno 2] No such file or directory: './data/processed/test_tfidf.csv'
+2025-09-22 10:03:35,854 - model_evaluation - ERROR - Failed to complete the model evaluation process: [Errno 2] No such file or directory: './data/processed/test_tfidf.csv'
+2025-09-22 10:06:56,253 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-09-22 10:06:56,333 - model_evaluation - DEBUG - Model loaded from C:\Users\21650\Desktop\MLOPS PROJECT\MLOPS_PROJECT\src\models\model.pkl
+2025-09-22 10:06:56,339 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2025-09-22 10:06:56,350 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-09-22 10:07:08,961 - model_evaluation - ERROR - Failed to complete the model evaluation process: Stash apply resulted in merge conflicts
