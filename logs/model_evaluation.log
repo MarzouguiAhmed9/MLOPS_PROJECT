@@ -40,3 +40,8 @@
 2025-09-22 10:21:17,906 - model_evaluation - DEBUG - Model evaluation metrics calculated
 2025-09-22 10:21:27,303 - model_evaluation - ERROR - Failed to complete the model evaluation process: could not remove 'C:/Users/21650/Desktop/MLOPS PROJECT/MLOPS_PROJECT/logs/model_evaluation.log': Le processus ne peut pas accéder au fichier car ce fichier est utilisé par un autre processus.
 
+2025-09-23 00:00:15,248 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-09-23 00:00:15,330 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-09-23 00:00:15,336 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2025-09-23 00:00:15,348 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-09-23 00:00:15,652 - model_evaluation - DEBUG - Metrics saved to reports/metrics.json
