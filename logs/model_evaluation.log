@@ -10,3 +10,33 @@
 2025-09-22 10:06:56,339 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
 2025-09-22 10:06:56,350 - model_evaluation - DEBUG - Model evaluation metrics calculated
 2025-09-22 10:07:08,961 - model_evaluation - ERROR - Failed to complete the model evaluation process: Stash apply resulted in merge conflicts
+2025-09-22 10:13:40,491 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-09-22 10:13:40,572 - model_evaluation - DEBUG - Model loaded from C:\Users\21650\Desktop\MLOPS PROJECT\MLOPS_PROJECT\src\models\model.pkl
+2025-09-22 10:13:40,577 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2025-09-22 10:13:40,588 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-09-22 10:13:49,288 - model_evaluation - ERROR - Failed to complete the model evaluation process: could not remove 'C:/Users/21650/Desktop/MLOPS PROJECT/MLOPS_PROJECT/logs/model_evaluation.log': Le processus ne peut pas accéder au fichier car ce fichier est utilisé par un autre processus.
+
+2025-09-22 10:16:21,048 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-09-22 10:16:21,137 - model_evaluation - DEBUG - Model loaded from C:\Users\21650\Desktop\MLOPS PROJECT\MLOPS_PROJECT\src\models\model.pkl
+2025-09-22 10:16:21,142 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2025-09-22 10:16:21,154 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-09-22 10:16:29,934 - model_evaluation - ERROR - Failed to complete model evaluation: could not remove 'C:/Users/21650/Desktop/MLOPS PROJECT/MLOPS_PROJECT/logs/model_evaluation.log': Le processus ne peut pas accéder au fichier car ce fichier est utilisé par un autre processus.
+
+2025-09-22 10:19:22,998 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-09-22 10:19:23,083 - model_evaluation - DEBUG - Model loaded from C:\Users\21650\Desktop\MLOPS PROJECT\MLOPS_PROJECT\src\models\model.pkl
+2025-09-22 10:19:23,087 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2025-09-22 10:19:23,098 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-09-22 10:19:31,867 - model_evaluation - ERROR - Failed to complete the model evaluation process: could not remove 'C:/Users/21650/Desktop/MLOPS PROJECT/MLOPS_PROJECT/logs/model_evaluation.log': Le processus ne peut pas accéder au fichier car ce fichier est utilisé par un autre processus.
+
+2025-09-22 10:20:05,643 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-09-22 10:20:05,720 - model_evaluation - DEBUG - Model loaded from C:\Users\21650\Desktop\MLOPS PROJECT\MLOPS_PROJECT\src\models\model.pkl
+2025-09-22 10:20:05,725 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2025-09-22 10:20:05,736 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-09-22 10:20:14,380 - model_evaluation - ERROR - Failed to complete the model evaluation process: could not remove 'C:/Users/21650/Desktop/MLOPS PROJECT/MLOPS_PROJECT/logs/model_evaluation.log': Le processus ne peut pas accéder au fichier car ce fichier est utilisé par un autre processus.
+
+2025-09-22 10:21:17,807 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-09-22 10:21:17,889 - model_evaluation - DEBUG - Model loaded from C:\Users\21650\Desktop\MLOPS PROJECT\MLOPS_PROJECT\src\models\model.pkl
+2025-09-22 10:21:17,893 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2025-09-22 10:21:17,906 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-09-22 10:21:27,303 - model_evaluation - ERROR - Failed to complete the model evaluation process: could not remove 'C:/Users/21650/Desktop/MLOPS PROJECT/MLOPS_PROJECT/logs/model_evaluation.log': Le processus ne peut pas accéder au fichier car ce fichier est utilisé par un autre processus.
+
